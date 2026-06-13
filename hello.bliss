@@ -1,0 +1,13 @@
+%TITLE 'HELLO'
+MODULE HELLO =
+BEGIN
+    LIBRARY 'SYSLIB';
+    EXTERNAL ROUTINE
+        LIB$PUT_OUTPUT;
+
+    ROUTINE MAIN =
+    BEGIN
+        LIB$PUT_OUTPUT( 'Hello, World!' );
+    END;
+END
+ELUDOM

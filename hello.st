@@ -1,1 +1,1 @@
-'Hello, World!' printNl
+Transcript show: 'Hello, World!'; cr.

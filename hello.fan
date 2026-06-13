@@ -1,7 +1,5 @@
-class HelloWorld
-{
-  static Void main()
-  {
+class HelloWorld {
+  static Void main() {
     echo("Hello, World!")
   }
 }

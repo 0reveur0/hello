@@ -1,4 +1,4 @@
-import Html exposing (text)
+import Html
 
 main =
-  text "Hello, World!"
+  Html.text "Hello, World!"

@@ -1,0 +1,11 @@
+        .title    hello
+        .psect    main,exe,rd
+main::
+        pushl    #string
+        calls    #1, g^lib$put_output
+        ret
+
+        .psect    rodata,rd
+string: .ascid    "Hello, World!"
+
+        .end      main

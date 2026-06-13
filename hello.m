@@ -1,1 +1,2 @@
-disp('Hello, World!')
+|| hello world program
+world = "Hello, World!"
