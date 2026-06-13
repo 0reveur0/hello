@@ -1,3 +1,2 @@
-pro hello
-  print, 'Hello, World!'
-end
+:- initialization(main).
+main :- write('Hello, World!'), nl.
