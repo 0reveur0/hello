@@ -1,0 +1,5 @@
+export Executable
+run(args):Int32 = (
+  print "Hello, World!"
+  0
+)

@@ -1,0 +1,7 @@
+GET "libhdr.h"
+
+LET START() = VALOF
+$(
+    WRITES("Hello, World!*N")
+    RESULTIS 0
+$)

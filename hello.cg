@@ -1,0 +1,6 @@
+void main(in float2 inpos: POSITION, out float4 outpos: POSITION, out float4 outcolor: COLOR)
+{
+    outpos = float4(inpos, 0, 1);
+    outcolor = float4(1, 1, 1, 1); // white
+    // The text "Hello, World!" will be rendered by the application
+}
