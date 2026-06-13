@@ -1,1 +1,1 @@
-write, "Hello, World!\n";
+display("Hello, World!")

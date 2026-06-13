@@ -1,2 +1,1 @@
-export Executable
-run(args) = print "Hello, World!"
+printfn "Hello, World!"

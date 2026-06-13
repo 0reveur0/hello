@@ -1,2 +1,3 @@
-PRINT, 'Hello, World!'
-END
+pro hello
+  print, 'Hello, World!'
+end

@@ -6,26 +6,60 @@ A collection of `Hello, World!` programs written in as many programming language
 
 ## About
 
-This repository contains the classic `Hello, World!` program implemented in different programming languages. Each file is named `hello` with the appropriate extension for its language.
+This repository contains the classic `Hello, World!` program implemented in a wide variety of programming languages. The goal is to create an extensive collection that goes beyond well-known languages to include many that are less common or from specialized domains.
 
-Examples:
+## Roadmap
 
-```text
-hello.py
-hello.js
-hello.c
-hello.cpp
-hello.java
-hello.rs
-hello.go
-hello.kt
-...
-```
+The project aims to expand the collection by systematically searching for and including languages from diverse categories. The plan includes:
 
-## Why?
+*   **Cataloging:** Discover and catalog languages, including their aliases and extensions. Uncertain entries will be marked for verification. The target is to identify over 2500 unique languages.
+*   **Implementation:** Generate `Hello, World!` implementations for all newly cataloged languages.
 
-* Explore different programming languages
-* Compare syntax across languages
-* Have fun collecting them all
+### Language Categories for Expansion
 
-Because every programming language deserves a `Hello, World!`.
+The search for new languages will cover the following categories:
+
+*   Archived and discontinued languages
+*   Academic and research languages
+*   Prototype languages from scientific papers
+*   Domain-specific languages (DSLs)
+*   Configuration languages with executable capabilities
+*   Hardware description and verification languages
+*   Smart contract and blockchain languages
+*   Educational languages
+*   Visual programming languages
+*   Esoteric programming languages (esolangs)
+*   Joke languages and novelty languages
+*   Concatenative languages
+*   Stack-based languages
+*   Logic programming languages
+*   Array programming languages
+*   Agent-oriented languages
+*   Dataflow programming languages
+*   Constraint programming languages
+*   Quantum programming languages
+*   Probabilistic programming languages
+*   Reactive programming languages
+*   Actor-model languages
+*   Parallel and distributed computing languages
+*   Bioinformatics languages
+*   Robotics languages
+*   Game scripting languages
+*   Embedded systems languages
+*   Shell and command languages
+*   Macro languages
+*   Template languages
+*   Rule-based languages
+*   AI and expert system languages
+*   Multimedia and graphics scripting languages
+*   CAD/CAM languages
+*   Industrial automation languages
+*   Simulation languages
+*   Telecommunications languages
+*   GPU programming languages
+*   Compiler intermediate languages
+*   Languages documented only in academic literature
+*   Languages found in Esolang Wiki
+*   Languages listed in HOPL
+*   Languages from Rosetta Code not already included
+*   Languages from Wikipedia's lists of programming languages

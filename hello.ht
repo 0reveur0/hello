@@ -1,0 +1,3 @@
+on startUp
+  put "Hello, World!"
+end startUp

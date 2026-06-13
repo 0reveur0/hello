@@ -1,18 +1,17 @@
 section .data
-    hello db 'Hello, World!',0
+    msg db "Hello, World!", 0xa
+    len equ $ - msg
 
 section .text
     global _start
 
 _start:
-    ; write the string to stdout
-    mov rax, 1
-    mov rdi, 1
-    mov rsi, hello
-    mov rdx, 13
-    syscall
+    mov eax, 4
+    mov ebx, 1
+    mov ecx, msg
+    mov edx, len
+    int 0x80
 
-    ; exit the program
-    mov rax, 60
-    xor rdi, rdi
-    syscall
+    mov eax, 1
+    mov ebx, 0
+    int 0x80

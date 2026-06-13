@@ -1,6 +1,5 @@
 <?hh
-// strict mode
 
 function main(): void {
-  echo 'Hello, World!';
+  echo 'Hello, World!\n';
 }

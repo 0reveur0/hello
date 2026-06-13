@@ -1,1 +1,1 @@
-"Hello, World!" println
+say("Hello, World!")
