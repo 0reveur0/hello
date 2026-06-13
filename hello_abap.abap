@@ -1,2 +1,0 @@
-REPORT Z_HELLO_WORLD.
-WRITE 'Hello, World!'.
