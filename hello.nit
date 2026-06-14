@@ -1,1 +1,0 @@
-using Nit, Text; App.start(proc(app){ app.print("Hello, World!\n"); });

@@ -1,9 +1,0 @@
-PROGRAM Hello
-  VAR
-  END_VAR
-  
-  // Your code here
-  // Example: Print "Hello, World!"
-  WRITE('Hello, World!');
-  
-END_PROGRAM
