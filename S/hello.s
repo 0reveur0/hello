@@ -1,0 +1,1 @@
+main: .asciz "Hello, World!"

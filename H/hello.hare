@@ -1,0 +1,1 @@
+export fn main() void { io::println("Hello, World!"); }

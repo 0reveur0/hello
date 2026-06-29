@@ -1,0 +1,4 @@
+#tag
+Sub Opening()
+  Print("Hello, World!")
+End Sub

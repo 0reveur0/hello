@@ -1,0 +1,1 @@
+MODULE Hello; BEGIN  (* Hello, World! *) END Hello.

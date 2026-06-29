@@ -1,0 +1,1 @@
+public class Hello { public static void main() { println("Hello, World!"); } }

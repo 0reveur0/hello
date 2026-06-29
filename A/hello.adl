@@ -1,0 +1,7 @@
+module hello
+
+import std
+
+main() {
+  print("Hello, World!")
+}
