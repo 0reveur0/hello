@@ -1,0 +1,1 @@
+writeOutput("Hello, World!");

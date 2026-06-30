@@ -1,0 +1,1 @@
+theory Hello imports Main begin theorem "Hello, World!" by simp end

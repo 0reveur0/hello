@@ -1,0 +1,1 @@
+BEGIN FILE F; PRINT(("Hello, World!")) END

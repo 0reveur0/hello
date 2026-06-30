@@ -1,0 +1,3 @@
+PROGRAM
+  MESSAGE("Hello, World!")
+END

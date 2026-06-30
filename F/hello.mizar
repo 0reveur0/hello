@@ -1,0 +1,1 @@
+theorem Hello: 1 = 1 by simp

@@ -1,0 +1,5 @@
+bundle agent hello
+{
+  reports:
+    "Hello, World!";
+}

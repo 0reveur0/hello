@@ -1,0 +1,5 @@
+module mkHello;
+  rule hello;
+    $display("Hello, World!");
+  endrule
+endmodule

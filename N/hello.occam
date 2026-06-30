@@ -1,0 +1,4 @@
+PROC main()
+  SEQ
+    out.string("Hello, World!", 0)
+: 
